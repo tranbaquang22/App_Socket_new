@@ -1,0 +1,15 @@
+2024-11-18 03:24:16,796 - Server is running on port 5555...
+2024-11-18 03:24:46,864 - Connected by ('127.0.0.1', 60601)
+2024-11-18 03:25:20,957 - Connected by ('127.0.0.1', 60605)
+2024-11-18 03:25:54,612 - User registered: tk1
+2024-11-18 03:26:20,894 - User logged in: tk1
+2024-11-18 03:26:34,585 - User registered: tk2
+2024-11-18 03:26:40,052 - User logged in: tk2
+2024-11-18 03:26:53,179 - Message from tk2: hello bạn
+2024-11-18 03:26:58,859 - Message from tk2: bạn có khỏe không
+2024-11-18 03:27:15,119 - Message from tk1: ok tôi khỏe
+2024-11-18 03:27:59,772 - Project created: project 1 by tk1 with members ['tk1', 'tk2']
+2024-11-18 03:29:08,828 - Task 'task1' added to project 1 by tk1
+2024-11-18 03:29:58,345 - Task 'task2' added to project 1 by tk1
+2024-11-18 03:31:02,289 - ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host - Client ('127.0.0.1', 60605) disconnected.
+2024-11-18 03:31:06,408 - ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host - Client ('127.0.0.1', 60601) disconnected.
